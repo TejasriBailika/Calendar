@@ -16,7 +16,7 @@
     "sweetalert": "^2.1.0"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "react-scripts": "1.1.1"
   },
   "scripts": {
